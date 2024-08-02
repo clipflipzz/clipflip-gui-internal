@@ -1,6 +1,6 @@
 {
-  3.0: {
-      Changes: "Cool"
-      Announcement: "Hi"
+  "3.0": {
+    "Changelogs": "hi",
+    "Announcement": "HIII"
   }
 }
