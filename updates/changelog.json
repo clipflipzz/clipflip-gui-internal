@@ -1,5 +1,4 @@
 {
-  Version: "4.0"
-  Changes: "Full rewrite\nA lot of new stuff"
-  Announcement: "Hi"
+    "Changelogs": "Full rewrite\nA lot of new stuff",
+    "Announcement": "Hi"
 }
